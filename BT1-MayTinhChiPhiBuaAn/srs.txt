@@ -1,0 +1,19 @@
+Bài tập: Máy tính chi phí bữa ăn
+Mô tả:
+
+Bạn đang xây dựng một chương trình để tính toán chi phí bữa ăn tại một nhà hàng. Chương trình sẽ:
+
+Cho phép người dùng nhập giá của các món ăn họ đã gọi.
+Tính tổng chi phí trước thuế.
+Tính thuế (8%) và tiền tip (15%) dựa trên tổng chi phí.
+Hiển thị hóa đơn chi tiết bao gồm tổng cộng phải trả.
+Yêu cầu:
+
+Sử dụng vòng lặp để người dùng có thể nhập nhiều món ăn (hỏi người dùng có muốn thêm món nữa không sau mỗi lần nhập).
+Tính toán chính xác các giá trị với 2 chữ số thập phân.
+Hiển thị kết quả cuối cùng theo định dạng dễ đọc.
+Gợi ý:
+
+Dùng một danh sách để lưu giá của các món ăn.
+Sử dụng hàm input() để lấy dữ liệu từ người dùng.
+Dùng vòng lặp while để hỏi người dùng có muốn tiếp tục không.
